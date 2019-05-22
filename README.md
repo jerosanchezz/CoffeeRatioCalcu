@@ -1,6 +1,6 @@
 # CoffeeRatioCalcu
 
-Making a perfect is an art, coffee lovers around the world strive hard to get the combination right, if you add a little more grains, it’ll ruin the taste, if you add more water you’ll lose the aroma, CoffeeRatioCalcu is the solution for those people who loves their coffee “right”, brew your coffee by calculating the grams of water and coffee needed, There is a segmented control: When you are in Grams mode, the number you enter into the big box is coffee in grams and the large output is the water in grams. When user is in TBSP mode, the number you enter into the big box is coffee in tablespoons and the large output is water in cups.
+Making a perfect is an art, coffee lovers around the world strive hard to get the combination right, if you add a little more grains, it’ll ruin the taste, if you add more water you’ll lose the aroma, CR:CoffeeRatio is the solution for those people who loves their coffee “right”, brew your coffee by calculating the grams of water and coffee needed, There is a segmented control: When you are in Grams mode, the number you enter into the big box is coffee in grams and the large output is the water in grams. When user is in TBSP mode, the number you enter into the big box is coffee in tablespoons and the large output is water in cups.
 
 ## Privacy Policy
 
